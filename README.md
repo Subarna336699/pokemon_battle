@@ -1,5 +1,7 @@
 # pokemon_card_battle
 
+### homepage
+![](./assets/image.png)
 A new Flutter project.
 
 ## Getting Started
